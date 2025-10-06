@@ -1,16 +1,20 @@
 # Actuarial-Reserving-Calculator
 📘 Overview
+
 This project is a learning exercise where I built an actuarial reserving calculator in Excel to estimate future insurance liabilities. It combines mortality rate tables and the time value of money to calculate the present value of expected payouts for life or long-term insurance products.
 
 ⚙️ Methods
+
 Mortality Modeling: Used mortality rate tables to estimate probabilities of survival and death at each age.
 Reserve Calculation: Applied the time value of money to discount future benefit payments to their present value.
 Automation: Used Excel formulas, lookup functions, and pivot tables to automate reserve estimates.
 
 📊 Key Learning Points
+
 Understanding how mortality rates affect future liabilities.
 Applying discounting and present value principles to actuarial problems.
 Building a dynamic model in Excel to test multiple actuarial assumptions.
 
 🧠 Skills Demonstrated
+
 Excel modeling • Actuarial reserving • Mortality analysis • Financial mathematics • Data visualization
